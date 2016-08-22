@@ -1,0 +1,1 @@
+# vcs-viking-store-home-page
